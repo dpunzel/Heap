@@ -109,7 +109,7 @@ public class Heap {
     }
 
     public int getParent(int index) {
-        return (index -1)/2;
+        return (index - 1) / 2;
     }
 
     public boolean isEmpty() {
